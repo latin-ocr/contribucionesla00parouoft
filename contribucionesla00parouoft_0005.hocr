@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./contribucionesla00parouoft_0005.png"; bbox 0 0 2161 3681; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 522 192 1503 387">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 522 192 1503 387">
+     <span class='ocr_line' id='line_1_1' title="bbox 522 192 1503 387; baseline -0.021 -32"><span class='ocrx_word' id='word_1_1' title='bbox 522 255 1356 387; x_wconf 54' lang='lat' dir='ltr'>CONTRHMMHONES</span> <span class='ocrx_word' id='word_1_2' title='bbox 1502 192 1503 195; x_wconf 5' lang='grc' dir='ltr'>Ὺ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 149 658 1754 822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 149 658 1754 822">
+     <span class='ocr_line' id='line_1_2' title="bbox 149 658 1754 822; baseline -0.021 2"><span class='ocrx_word' id='word_1_3' title='bbox 149 680 604 822; x_wconf 77' lang='lat' dir='ltr'>FLORA</span> <span class='ocrx_word' id='word_1_4' title='bbox 663 675 938 810; x_wconf 81' lang='lat' dir='ltr'>DEL</span> <span class='ocrx_word' id='word_1_5' title='bbox 996 658 1754 802; x_wconf 75' lang='lat' dir='ltr'><strong>PARAGUAY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 576 1139 1339 1208">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 576 1139 1339 1208">
+     <span class='ocr_line' id='line_1_3' title="bbox 576 1139 1339 1208; baseline -0.021 1"><span class='ocrx_word' id='word_1_6' title='bbox 576 1146 976 1208; x_wconf 78' lang='lat' dir='ltr'>DOMINGO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1021 1139 1339 1199; x_wconf 78' lang='lat' dir='ltr'>PARODI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 760 1403 1139 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 760 1403 1139 1422">
+     <span class='ocr_line' id='line_1_4' title="bbox 760 1403 1139 1422; baseline 0 2259"><span class='ocrx_word' id='word_1_8' title='bbox 760 1403 1139 1422; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 720 2789 1241 2844">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 720 2789 1241 2844">
+     <span class='ocr_line' id='line_1_5' title="bbox 720 2789 1241 2844; baseline -0.017 0"><span class='ocrx_word' id='word_1_9' title='bbox 720 2795 902 2844; x_wconf 76' lang='lat' dir='ltr'>BUEN</span> <span class='ocrx_word' id='word_1_10' title='bbox 911 2789 1241 2841; x_wconf 85' lang='lat' dir='ltr'>SSSSSSS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
